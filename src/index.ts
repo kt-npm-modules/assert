@@ -1,6 +1,5 @@
 export class AssertionError extends Error {}
 export type GetMessageFunction = (value: unknown) => string;
-// export type CreateErrorFunction = (value: unknown) => Error;
 type _ErrorConstructor = new (message?: string) => Error;
 
 export function ok(
