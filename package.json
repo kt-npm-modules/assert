@@ -14,7 +14,9 @@
 		"nodejs",
 		"node_modules",
 		"npm",
-		"assert"
+		"assert",
+		"browser",
+		"server"
 	],
 	"homepage": "https://github.com/kt-npm-modules/assert#readme",
 	"repository": {
