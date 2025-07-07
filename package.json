@@ -1,7 +1,7 @@
 {
-	"name": "@ktarmyshov/npm-typescript-template",
-	"description": "Template repository for npm packages written in TypeScript",
-	"version": "0.0.6",
+	"name": "@ktarmyshov/assert",
+	"description": "Assert module for Node.js, JavaScript, and TypeScript similar to nide:assert, to be used in server and browser environments.",
+	"version": "0.0.1",
 	"license": "MIT",
 	"author": {
 		"name": "Konstantin Tarmyshov",
@@ -14,23 +14,15 @@
 		"nodejs",
 		"node_modules",
 		"npm",
-		"template",
-		"auto-update",
-		"auto-release",
-		"sonar",
-		"sonarcloud",
-		"codeql",
-		"eslint",
-		"prettier",
-		"changeset"
+		"assert"
 	],
-	"homepage": "https://github.com/kt-npm-modules/npm-typescript-template#readme",
+	"homepage": "https://github.com/kt-npm-modules/assert#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kt-npm-modules/npm-typescript-template.git"
+		"url": "git+https://github.com/kt-npm-modules/assert.git"
 	},
 	"bugs": {
-		"url": "https://github.com/kt-npm-modules/npm-typescript-template/issues"
+		"url": "https://github.com/kt-npm-modules/assert/issues"
 	},
 	"type": "module",
 	"types": "./dist/index.d.ts",
