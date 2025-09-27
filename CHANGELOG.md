@@ -1,5 +1,22 @@
 # @ktarmyshov/assert
 
+## 0.1.3
+
+### Patch Changes
+
+- e9bf839: dependabot: directory '/', update @types/node
+- e9bf839: dependabot: directory '/', update eslint
+- e9bf839: dependabot: directory '/', update typescript-eslint
+- 72aeeb8: dependabot: directory '/', update @changesets/cli
+- 72aeeb8: dependabot: directory '/', update @types/node
+- 72aeeb8: dependabot: directory '/', update typescript-eslint
+- a487e04: dependabot: directory '/', update @types/node
+- a487e04: dependabot: directory '/', update eslint
+- a487e04: dependabot: directory '/', update publint
+- a487e04: dependabot: directory '/', update typescript-eslint
+- 8ee867e: dependabot: directory '/', update @eslint/compat
+- 8ee867e: dependabot: directory '/', update typescript-eslint
+
 ## 0.1.2
 
 ### Patch Changes
