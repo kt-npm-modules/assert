@@ -1,5 +1,14 @@
 # @ktarmyshov/assert
 
+## 0.1.4
+
+### Patch Changes
+
+- b50e0e6: dependabot: directory '/', update @types/node
+- b50e0e6: dependabot: directory '/', update eslint
+- b50e0e6: dependabot: directory '/', update typescript-eslint
+- b50e0e6: dependabot: directory '/', update typescript
+
 ## 0.1.3
 
 ### Patch Changes
