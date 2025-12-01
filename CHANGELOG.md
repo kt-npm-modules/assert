@@ -1,5 +1,36 @@
 # @ktarmyshov/assert
 
+## 0.1.5
+
+### Patch Changes
+
+- 15990ba: dependabot: directory '/', update @eslint/compat
+- 15990ba: dependabot: directory '/', update @types/node
+- 15990ba: dependabot: directory '/', update @vitest/coverage-istanbul
+- 15990ba: dependabot: directory '/', update eslint
+- 15990ba: dependabot: directory '/', update rimraf
+- 15990ba: dependabot: directory '/', update vitest
+- d7a9db6: dependabot: directory '/', update @vitest/coverage-istanbul
+- d7a9db6: dependabot: directory '/', update eslint
+- d7a9db6: dependabot: directory '/', update typescript-eslint
+- d7a9db6: dependabot: directory '/', update vitest
+- b48d8fe: dependabot: directory '/', update @eslint/compat
+- b48d8fe: dependabot: directory '/', update @types/node
+- b48d8fe: dependabot: directory '/', update @vitest/coverage-istanbul
+- b48d8fe: dependabot: directory '/', update typescript-eslint
+- b48d8fe: dependabot: directory '/', update vitest
+- 7359969: dependabot: directory '/', update @vitest/coverage-istanbul
+- 7359969: dependabot: directory '/', update rimraf
+- 7359969: dependabot: directory '/', update typescript-eslint
+- 7359969: dependabot: directory '/', update vitest
+- 891213a: dependabot: directory '/', update @vitest/coverage-istanbul
+- 891213a: dependabot: directory '/', update vitest
+- 7cb0673: dependabot: directory '/', update @changesets/cli
+- 7cb0673: dependabot: directory '/', update @vitest/coverage-istanbul
+- 7cb0673: dependabot: directory '/', update prettier
+- 7cb0673: dependabot: directory '/', update typescript-eslint
+- 7cb0673: dependabot: directory '/', update vitest
+
 ## 0.1.4
 
 ### Patch Changes
