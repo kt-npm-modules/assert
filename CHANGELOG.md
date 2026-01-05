@@ -1,5 +1,11 @@
 # @ktarmyshov/assert
 
+## 0.1.8
+
+### Patch Changes
+
+- 16df7f1: dependabot: directory '/', update typescript-eslint
+
 ## 0.1.7
 
 ### Patch Changes
