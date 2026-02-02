@@ -1,7 +1,7 @@
 {
 	"name": "@ktarmyshov/assert",
 	"description": "Assert module for Node.js, JavaScript, and TypeScript similar to nide:assert, to be used in server and browser environments.",
-	"version": "0.1.8",
+	"version": "0.1.9",
 	"license": "MIT",
 	"author": {
 		"name": "Konstantin Tarmyshov",
