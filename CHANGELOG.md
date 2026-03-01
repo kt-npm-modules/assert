@@ -1,5 +1,13 @@
 # @ktarmyshov/assert
 
+## 0.1.9
+
+### Patch Changes
+
+- fc74d33: dependabot: directory '/', update @eslint/compat
+- fc74d33: dependabot: directory '/', update @types/node
+- fc74d33: dependabot: directory '/', update typescript-eslint
+
 ## 0.1.8
 
 ### Patch Changes
