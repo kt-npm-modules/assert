@@ -1,0 +1,5 @@
+---
+'@ktarmyshov/assert': patch
+---
+
+dependabot: directory '/', update @changesets/cli from 2.29.8 to 2.30.0
