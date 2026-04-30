@@ -1,5 +1,11 @@
 # @ktarmyshov/assert
 
+## 0.1.10
+
+### Patch Changes
+
+- d73e04c: update dependencies
+
 ## 0.1.9
 
 ### Patch Changes
