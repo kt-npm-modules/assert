@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import assert, { AssertionError } from '../src';
+import assert, { AssertionError } from '../src/index.js';
 
 describe('assert.ok', () => {
 	it('should not fail', () => {

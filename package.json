@@ -31,8 +31,7 @@
 	"exports": {
 		".": {
 			"types": "./dist/index.d.ts",
-			"import": "./dist/index.js",
-			"default": "./dist/index.js"
+			"import": "./dist/index.js"
 		}
 	},
 	"scripts": {
@@ -42,7 +41,7 @@
 		"format": "prettier --write .",
 		"lint": "prettier --check . && eslint .",
 		"check": "tsc --skipLibCheck",
-		"check:test": "tsc --project tsconfig-test.json --skipLibCheck",
+		"check:test": "tsc --project tsconfig-test.json --skipLibCheck --noEmit",
 		"test": "npm run check:test && vitest run",
 		"coverage": "vitest run --coverage",
 		"changeset:version": "changeset version && npm install && git add --all",
