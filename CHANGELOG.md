@@ -1,5 +1,27 @@
 # @ktarmyshov/assert
 
+## 0.1.12
+
+### Patch Changes
+
+- 9c04369: dependabot: directory '/', update @types/node
+- 9c04369: dependabot: directory '/', update @vitest/coverage-istanbul
+- 9c04369: dependabot: directory '/', update typescript-eslint
+- 9c04369: dependabot: directory '/', update vitest
+- 1baeab7: dependabot: directory '/', update typescript
+- aacede4: dependabot: directory '/', update @types/node
+- aacede4: dependabot: directory '/', update eslint
+- aacede4: dependabot: directory '/', update prettier
+- aacede4: dependabot: directory '/', update typescript-eslint
+- 43f0b11: dependabot: directory '/', update @vitest/coverage-istanbul
+- 43f0b11: dependabot: directory '/', update typescript-eslint
+- 43f0b11: dependabot: directory '/', update vitest
+- 1ac38e3: dependabot: directory '/', update eslint
+- 1ac38e3: dependabot: directory '/', update globals
+- 1ac38e3: dependabot: directory '/', update prettier
+- 1ac38e3: dependabot: directory '/', update typescript-eslint
+- b051557: dependabot: directory '/', update @types/node
+
 ## 0.1.11
 
 ### Patch Changes
