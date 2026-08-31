@@ -1,7 +1,7 @@
 {
 	"name": "@ktarmyshov/assert",
 	"description": "Assert module for Node.js, JavaScript, and TypeScript similar to node:assert, to be used in server and browser environments.",
-	"version": "0.1.9",
+	"version": "0.1.13",
 	"license": "MIT",
 	"author": {
 		"name": "Konstantin Tarmyshov",
@@ -56,20 +56,20 @@
 		"!benchmarks"
 	],
 	"devDependencies": {
-		"@changesets/cli": "^2.28.1",
+		"@changesets/cli": "^3.0.0",
 		"@eslint/compat": "^2.0.0",
 		"@eslint/js": "^10.0.1",
-		"@types/node": "^25.0.2",
-		"@vitest/coverage-istanbul": "^4.0.3",
-		"eslint": "^10.0.2",
+		"@types/node": "^26.0.1",
+		"@vitest/coverage-istanbul": "^4.1.9",
+		"eslint": "^10.6.0",
 		"eslint-config-prettier": "^10.1.2",
-		"globals": "^17.4.0",
-		"prettier": "^3.5.3",
+		"globals": "^17.7.0",
+		"prettier": "^3.9.1",
 		"publint": "^0.3.11",
 		"rimraf": "^6.0.1",
 		"tsc-alias": "^1.8.15",
-		"typescript": "^5.8.2",
-		"typescript-eslint": "^8.57.2",
+		"typescript": "^6.0.3",
+		"typescript-eslint": "^8.62.0",
 		"vitest": "^4.0.3"
 	},
 	"engines": {
