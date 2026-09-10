@@ -1,5 +1,12 @@
 # @ktarmyshov/assert
 
+## 0.1.15
+
+### Patch Changes
+
+- fb74858: dependabot: dependency updates for PR #78
+- 6713155: dependabot: dependency updates for PR #80
+
 ## 0.1.14
 
 ### Patch Changes
