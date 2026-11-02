@@ -1,5 +1,11 @@
 # @ktarmyshov/assert
 
+## 0.1.17
+
+### Patch Changes
+
+- a2f44e4: dependabot: dependency updates for PR #91
+
 ## 0.1.16
 
 ### Patch Changes
